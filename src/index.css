@@ -1,0 +1,12 @@
+.faq-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.faq-body {
+  display: none;
+}
+
+.in{
+  display: block;
+}
